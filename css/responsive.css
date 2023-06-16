@@ -1,0 +1,358 @@
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1159px;
+  }
+  .VeterinarianImg,
+  .dogImg {
+    width: 342px;
+    height: 353px;
+  }
+  .teamImg {
+    width: 361px;
+    height: 351px;
+  }
+
+  .blogImg {
+    width: 100%;
+    height: auto;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .videoInformWrap p {
+    font-size: 24px;
+  }
+  .bannerInfoWrap h2 {
+    font-size: 53px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .feedInformWrap h2 {
+    font-size: 30px;
+  }
+  .feedInformWrap h3 {
+    font-size: 28px;
+  }
+  .feedbackWrap {
+    padding-top: 120px;
+    padding-bottom: 90px;
+  }
+  .imgInfo h4 {
+    font-size: 19px;
+  }
+  .imgInfo h6,
+  .imgInfo p {
+    font-size: 14px;
+  }
+  .imgInfo a {
+    font-size: 16px;
+  }
+  .footerInformWrap p {
+    font-size: 18px;
+  }
+  .footerInformWrap form button {
+    padding: 19px 27px;
+  }
+  .footerInformWrap form input {
+    width: 73%;
+  }
+  .videoInformWrap h2 {
+    font-size: 30px;
+  }
+  .videoInformWrap p {
+    font-size: 21px;
+  }
+  .bannerInfoWrap h2 {
+    font-size: 43px;
+  }
+  .bannerInfoWrap p {
+    font-size: 17px;
+  }
+  .navbar-collapse {
+    background: #daac00;
+    padding: 10px 20px;
+  }
+  .navbar-nav {
+    margin-bottom: 15px;
+  }
+  .headerForm {
+    box-shadow: none;
+    margin-bottom: 15px;
+  }
+  .doctorImgHeadinWrap h3 {
+    font-size: 26px;
+  }
+  .doctorImgHeadinWrap p {
+    font-size: 18px;
+  }
+}
+@media (max-width: 767.98px) {
+  .feedInformWrap h2 {
+    font-size: 30px;
+  }
+  .feedInformWrap h3 {
+    font-size: 28px;
+  }
+  .feedbackWrap {
+    padding-top: 100px;
+    padding-bottom: 90px;
+  }
+  .feedInformWrap img {
+    margin-bottom: 25px;
+  }
+  .feedInformWrap h2 {
+    margin-bottom: 12px;
+  }
+  .feedInformWrap {
+    margin-bottom: 40px;
+  }
+  .lastInform {
+    margin-bottom: 0px;
+  }
+  .blogWrap,
+  .singleSection {
+    padding: 60px 0px;
+  }
+  .blogHeading,
+  .heading {
+    font-size: 38px;
+    margin-bottom: 16px;
+  }
+  .blogDescription,
+  .description {
+    font-size: 21px;
+  }
+  .blogImg {
+    width: 100%;
+  }
+  .imgInfo {
+    padding: 32px 24px;
+    margin-bottom: 40px;
+  }
+  .imgInfoLast {
+    margin-bottom: 0;
+  }
+  .imgInfo h4 {
+    font-size: 24px;
+  }
+  .aboutWrap {
+    margin-bottom: 20px;
+  }
+  .aboutWrap h5 {
+    margin-bottom: 10px;
+  }
+  .footerInformWrap h5,
+  .footerInformWrap form,
+  .footerInformWrap p {
+    text-align: left;
+  }
+  .footerLink {
+    justify-content: left;
+  }
+  .footerInformWrap form {
+    margin-bottom: 30px;
+  }
+  .footer {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  .footerInformWrap p {
+    font-size: 18px;
+  }
+  .video-wrapper {
+    margin-bottom: 30px;
+  }
+  .videoInformWrap h2 {
+    font-size: 38px;
+  }
+  .videoInformWrap p {
+    font-size: 21px;
+  }
+
+  .videoInformWrap {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  .videoInformWrap h2,
+  .videoInformWrap p {
+    text-align: center;
+  }
+  .serviceBtn {
+    margin-bottom: 40px;
+  }
+  .bannerInfoWrap h2 {
+    font-size: 50px;
+  }
+  .bannerInfoWrap p {
+    font-size: 20px;
+  }
+  .bannerInfoWrap {
+    margin-bottom: 40px;
+  }
+  .slider-img img {
+    width: 100%;
+  }
+  .navbar-collapse {
+    background: #daac00;
+    padding: 10px 20px;
+  }
+  .navbar-nav {
+    margin-bottom: 15px;
+  }
+  .headerForm {
+    box-shadow: none;
+    margin-bottom: 15px;
+  }
+  .logo {
+    width: 80%;
+  }
+  .doctorDogWrap .doctorHeading {
+    font-size: 38px;
+  }
+  .doctorDogWrap .doctorDescription {
+    font-size: 22px;
+  }
+  .dogHeading {
+    font-size: 38px;
+    margin-bottom: 20px;
+  }
+  .dogDescription {
+    font-size: 21px;
+  }
+  .dogImgHeading {
+    font-size: 34px;
+  }
+  .buyNow {
+    font-size: 22px;
+    width: 184px;
+    height: 54px;
+  }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .VeterinarianImg,
+  .dogImg,
+  .teamImg {
+    width: 100%;
+  }
+  .doctorImgHeadinWrap,
+  .dogImgHeadinWrap,
+  .teamImgHeadinWrap {
+    margin-bottom: 40px;
+  }
+  .dogImgHeadinWrapLast,
+  .teamImgHeadinWrap2 {
+    margin-bottom: 0px;
+  }
+}
+@media (max-width: 575.98px) {
+  .VeterinarianImg,
+  .dogImg,
+  .teamImg {
+    width: 100%;
+  }
+  .doctorImgHeadinWrap,
+  .dogImgHeadinWrap,
+  .teamImgHeadinWrap {
+    margin-bottom: 40px;
+  }
+  .dogImgHeadinWrapLast,
+  .teamImgHeadinWrap2 {
+    margin-bottom: 0px;
+  }
+}
+@media (max-width: 498px) {
+  .blogHeading,
+  .heading {
+    font-size: 34px;
+  }
+  .blogDescription,
+  .description {
+    font-size: 18px;
+  }
+  .blogRow {
+    margin-top: 45px;
+  }
+  .footer,
+  .videoWrap {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .footerInformWrap form input {
+    width: 60%;
+  }
+  .videoInformWrap h2 {
+    font-size: 34px;
+  }
+  .videoInformWrap p {
+    font-size: 20px;
+  }
+  .headerForm input {
+    padding: 10px 15px;
+    width: 170px;
+    padding-right: 5px;
+  }
+}
+
+@media (max-width: 480px) {
+  .feedInformWrap img {
+    width: 80px;
+  }
+  .feedbackWrap {
+    padding-top: 70px;
+    padding-bottom: 60px;
+  }
+  .feedInformWrap h2 {
+    font-size: 28px;
+  }
+  .feedInformWrap h3 {
+    font-size: 26px;
+  }
+  .videoInformWrap h2 {
+    font-size: 32px;
+  }
+  .videoInformWrap p {
+    font-size: 19px;
+  }
+  .serviceBtn {
+    margin-bottom: 30px;
+  }
+  .videoWrap {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .bannerInfoWrap h2 {
+    font-size: 40px;
+  }
+  .bannerInfoWrap p {
+    font-size: 17px;
+  }
+  .bannerButtonWrap button {
+    font-size: 16px;
+  }
+  .bannerInfoWrap {
+    margin-bottom: 40px;
+  }
+  .slider-img img {
+    width: 100%;
+  }
+  .bannerWrap {
+    padding: 50px 0px;
+  }
+  .doctorDogWrap .doctorDescription {
+    font-size: 21px;
+  }
+  .doctorImgHeadinWrap h3 {
+    font-size: 32px;
+  }
+  .doctorImgHeadinWrap p {
+    font-size: 21px;
+  }
+  .doctorDogWrap {
+    padding: 60px 0px;
+  }
+  .navbar-nav li a {
+    font-size: 18px;
+  }
+}
