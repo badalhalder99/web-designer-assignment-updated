@@ -237,7 +237,7 @@ h4 {
 }
 .imgInfo {
   border: 2px solid #d6d6d6;
-  border-top: 0;
+  border-top: 2px solid #fff;
   padding: 25px 22px;
 }
 .imgInfo h4 {
