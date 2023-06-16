@@ -277,7 +277,7 @@ h4 {
   box-shadow: 6px 11px 42px 9px rgba(74, 74, 74, 0.1);
 }
 .blogInformWrap:hover .imgInfo {
-  border: 0px;
+  border: 2px solid white;
 }
 /* ..............blog section css end.................. */
 /* ..............footer section css start.................. */
